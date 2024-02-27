@@ -14,7 +14,7 @@ Nous vous tiendrons informés de l'avancement de la résolution de l'incident.<b
 Nous vous prions de nous excuser pour la gêne occasionnée.<br/>
 
 **Pour plus d'informations:**
-Consultez notre page d'état: https://status.cloudewi.io<br/>
+Consultez notre page d'état: https://status.cloudewi.com<br/>
 Suivez-nous sur LinkedIn : https://linkedin.com/company/cloudewi<br/>
 
 **Contact:**
@@ -40,7 +40,7 @@ Nous vous tiendrons informés de l'avancement de la résolution de l'incident.<b
 Nous vous prions de nous excuser pour la gêne occasionnée.<br/>
 
 **Pour plus d'informations:**
-Consultez notre page d'état: https://status.cloudewi.io<br/>
+Consultez notre page d'état: https://status.cloudewi.com<br/>
 Suivez-nous sur LinkedIn : https://linkedin.com/company/cloudewi<br/>
 
 **Contact:**
