@@ -1,4 +1,3 @@
-# Incidents
 
 ## Incident 27 février 2024 à 06h33
 
